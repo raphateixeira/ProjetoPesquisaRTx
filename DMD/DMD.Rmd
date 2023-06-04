@@ -1,0 +1,33 @@
+---
+title: "Dinamic Mode Decomposition"
+subtitle: "Identificação e Controle"
+institute: "UFPA: (CAMTUC - FEE) - (NDAE - PPCA)"
+author: "Prof. Dr. Raphael Teixeira"
+output:
+  xaringan::moon_reader:
+    # css: [default, metropolis, metropolis-fonts]
+    css: [default,ufpa-fontes.css, ufpa.css]
+    lib_dir: libs
+    seal: true
+    nature:
+      #titleSlideClass: ["right", "top"]
+      highlightStyle: github
+      highlightLines: true
+      #highlightLanguage: ["r"]
+      countIncrementalSlides: false
+      ratio: "16:10"
+---
+
+# Dynamic Mode Decomposition
+
+
+# Bibliografia - Referências em LaTeX
+
+
+  
+
+
+
+
+
+
